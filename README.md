@@ -1,1 +1,1 @@
-# ML_in_buisnes
+# ML_in_business
